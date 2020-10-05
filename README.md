@@ -95,10 +95,25 @@ void infix_postfix(char infix[],char postfix[])
 }
   void main()
  {
+    int c1,c2;
     char infix[20];
     char postfix[20];
     printf("Enter the infix:\n");
     scanf("%s",infix);
+    for(int k=0;k<strlen(infix);k++)
+    {
+        if(infix[k]=='(')
+            c1++;
+        else if(infix[k]==')')
+            c2++;
+        else
+        continue;
+    }
+    if(c1!=c2)
+    {
+        printf("Invalid expression!");
+        exit(0);
+    }
     infix_postfix(infix,postfix);
     printf("The postfix is:\n");
     printf("%s\n",postfix);
