@@ -12,8 +12,8 @@ WRITEUP
 LAB PROGRAM 2
 
 
-<img src="![Linear](https://user-images.githubusercontent.com/71483959/96427638-6ce0fb00-121c-11eb-9fd5-b805515c60b6.png)">
-<img src="![Linear1](https://user-images.githubusercontent.com/71483959/96427757-8eda7d80-121c-11eb-8ccb-f70b6043da57.png)">
+![Linear](https://user-images.githubusercontent.com/71483959/96427638-6ce0fb00-121c-11eb-9fd5-b805515c60b6.png)
+![Linear1](https://user-images.githubusercontent.com/71483959/96427757-8eda7d80-121c-11eb-8ccb-f70b6043da57.png)
 
 
 WRITEUP
