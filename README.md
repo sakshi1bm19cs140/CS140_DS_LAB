@@ -62,11 +62,11 @@ INFIX TO POSTFIX
 
 
 ![INVALID EXPRESSION](https://user-images.githubusercontent.com/71483959/95070512-d8f43700-0725-11eb-8ed3-9e67f26dfb5b.png)
-[DSLAB_INFIXTOPOSTFIX.pdf](https://github.com/sakshi1bm19cs140/CS140_DS_LAB/files/5326454/DSLAB_INFIXTOPOSTFIX.pdf)
 ![DSLAB_3](https://user-images.githubusercontent.com/71483959/95062905-3767e800-071b-11eb-8f97-2425ab55be93.png)
 ![DSLAB_2](https://user-images.githubusercontent.com/71483959/95064181-fcff4a80-071c-11eb-8e93-cb301ea7f32b.png)
 ![DS_labProgram](https://user-images.githubusercontent.com/71483959/95064216-08527600-071d-11eb-8039-68d5f52ecb65.png)
 
 
-
+WRITEUP
+[DSLAB_INFIXTOPOSTFIX.pdf](https://github.com/sakshi1bm19cs140/CS140_DS_LAB/files/5326454/DSLAB_INFIXTOPOSTFIX.pdf)
 
