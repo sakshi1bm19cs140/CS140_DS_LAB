@@ -58,6 +58,14 @@ WRITEUP
 [Priority queue.pdf](https://github.com/sakshi1bm19cs140/CS140_DS_LAB/files/5473863/Priority.queue.pdf)
 
 
+INPUT AND OUTPUT RESTRICTED QUEUE
+
+
+![DS LAB IP RESTRICTED](https://user-images.githubusercontent.com/71483959/97855060-42189b80-1d20-11eb-869e-cdcc7f2891ad.png)
+![OP RESTRICTED](https://user-images.githubusercontent.com/71483959/97855073-46dd4f80-1d20-11eb-98ac-03ad7469b6f2.png)
+
+
+
 INFIX TO POSTFIX
 
 
