@@ -18,3 +18,14 @@ LAB PROGRAM 2
 
 WRITEUP
 [Write up Linear.pdf](https://github.com/sakshi1bm19cs140/CS140_DS_LAB/files/5400731/Write.up.Linear.pdf)
+
+
+
+LAB PROGRAM 3
+
+![Circular queue](https://user-images.githubusercontent.com/71483959/96421543-854d1780-1214-11eb-8788-dde945fc63dd.png)
+[circular queue (1).pdf](https://github.com/sakshi1bm19cs140/CS140_DS_LAB/files/5400598/circular.queue.1.pdf)
+
+
+WRITEUP
+[Write up.pdf](https://github.com/sakshi1bm19cs140/CS140_DS_LAB/files/5400626/Write.up.pdf)
