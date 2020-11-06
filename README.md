@@ -4,3 +4,6 @@ LAB PROGRAM 1
 
 
 WRITEUP
+
+
+[CamScanner 09-28-2020 16.06.17 (1).pdf](https://github.com/sakshi1bm19cs140/CS140_DS_LAB/files/5291634/CamScanner.09-28-2020.16.06.17.1.pdf)
