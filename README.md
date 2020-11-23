@@ -1,3 +1,30 @@
+
+
+
+LINKED LIST::
+
+
+
+WRITEUP::
+
+
+
+
+[Lab 6.pdf](https://github.com/sakshi1bm19cs140/CS140_DS_LAB/files/5582258/Lab.6.pdf)
+
+
+
+OUTPUT SCREEN::
+
+
+
+![LAB6](https://user-images.githubusercontent.com/71483959/99951800-acaf7b00-2da4-11eb-891c-8bfb359c70cf.png)
+![LAB6-1](https://user-images.githubusercontent.com/71483959/99951814-b0430200-2da4-11eb-8074-2f3ec144bfd8.png)
+![LAB6-2](https://user-images.githubusercontent.com/71483959/99951831-b638e300-2da4-11eb-9374-c993343a8633.png)
+
+
+
+
 STACK IMPLEMENTATION
 
 <img src="https://user-images.githubusercontent.com/71483959/94422231-67a40980-01a4-11eb-88cf-24bc552fe63d.png">
