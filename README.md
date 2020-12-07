@@ -1,3 +1,14 @@
+SORT, CONCATENATE AND REVERSE LINKED LIST::
+
+WRITEUP::
+[Cocat,Reverse,Sort.pdf](https://github.com/sakshi1bm19cs140/CS140_DS_LAB/files/5651823/Cocat.Reverse.Sort.pdf)
+
+
+
+OUTPUT::
+![Sort](https://user-images.githubusercontent.com/71483959/101335742-9c68c700-389f-11eb-88d9-337dd340ef42.png)
+![Concatenate](https://user-images.githubusercontent.com/71483959/101335756-9f63b780-389f-11eb-86d3-6a6a4fc5f20c.png)
+![Reverse](https://user-images.githubusercontent.com/71483959/101335771-a2f73e80-389f-11eb-8718-3e7e7ca2bafd.png)
 
 
 
