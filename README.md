@@ -11,6 +11,11 @@ OUTPUT::
 ![Reverse](https://user-images.githubusercontent.com/71483959/101335771-a2f73e80-389f-11eb-8718-3e7e7ca2bafd.png)
 
 
+MODIFIED CONCATINATION!!!
+![Modified Concatination](https://user-images.githubusercontent.com/71483959/101338486-09ca2700-38a3-11eb-92ed-6f486d9eb526.png)
+
+
+
 
 LINKED LIST::
 
