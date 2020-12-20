@@ -1,3 +1,16 @@
+IMPLEMENTATION OF STACKS AND QUEUES USING LINKED LIST::
+![sqll](https://user-images.githubusercontent.com/71483959/102718716-9814c300-430f-11eb-8531-a36b20be6a4a.png)
+![sqll2](https://user-images.githubusercontent.com/71483959/102718721-a06cfe00-430f-11eb-8a6e-989819735bd1.png)
+![sqll3](https://user-images.githubusercontent.com/71483959/102718725-a531b200-430f-11eb-8848-f74c24910208.png)
+![sqll4](https://user-images.githubusercontent.com/71483959/102718730-a9f66600-430f-11eb-99c2-a87b5358e870.png)
+![sqll5](https://user-images.githubusercontent.com/71483959/102718738-ae228380-430f-11eb-9460-4aca19798e8a.png)
+
+
+
+
+
+
+
 SORT, CONCATENATE AND REVERSE LINKED LIST::
 
 WRITEUP::
