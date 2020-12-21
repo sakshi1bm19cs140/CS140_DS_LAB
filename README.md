@@ -1,3 +1,24 @@
+
+LAB 10::
+OUTPUT::
+![Tree1](https://user-images.githubusercontent.com/71483959/102763582-e5d90c00-439f-11eb-9bfb-3809256c7530.png)
+![Tree2](https://user-images.githubusercontent.com/71483959/102763594-e83b6600-439f-11eb-980e-0a8ef48193ec.png)
+![Tree3](https://user-images.githubusercontent.com/71483959/102763606-ebceed00-439f-11eb-8209-8d215ed65a6f.png)
+![Tree4](https://user-images.githubusercontent.com/71483959/102763612-ef627400-439f-11eb-93a0-695cf6ee9d2b.png)
+![Tree5](https://user-images.githubusercontent.com/71483959/102763627-f2f5fb00-439f-11eb-8c6a-4f87701ae610.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 IMPLEMENTATION OF STACKS AND QUEUES USING LINKED LIST::
 ![sqll](https://user-images.githubusercontent.com/71483959/102718716-9814c300-430f-11eb-8531-a36b20be6a4a.png)
 ![sqll2](https://user-images.githubusercontent.com/71483959/102718721-a06cfe00-430f-11eb-8a6e-989819735bd1.png)
