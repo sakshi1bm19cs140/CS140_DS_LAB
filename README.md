@@ -19,6 +19,13 @@ OUTPUT::
 
 
 
+
+
+
+
+
+
+
 IMPLEMENTATION OF STACKS AND QUEUES USING LINKED LIST::
 ![sqll](https://user-images.githubusercontent.com/71483959/102718716-9814c300-430f-11eb-8531-a36b20be6a4a.png)
 ![sqll2](https://user-images.githubusercontent.com/71483959/102718721-a06cfe00-430f-11eb-8a6e-989819735bd1.png)
